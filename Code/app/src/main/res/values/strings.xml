@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SBTechincalTest</string>
+    <string name="title_login_screen">Welcome back</string>
+    <string name="login_screen_text">Log in to your Student Beans account</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_password">Enter password</string>
+    <string name="login_btn_text">Log in</string>
 </resources>
